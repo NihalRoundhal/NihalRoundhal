@@ -29,7 +29,7 @@ Mindset     → Jack of all trades, master of learning
 - ⚡ Fun fact: I like learning a little bit of everything
 - 📫 Reach me at nihalroundhal54@gmail.com
 
-____________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________
 🧠 What I Work With
 
 <div align="center">Languages
@@ -38,19 +38,19 @@ ________________________________________________________________________________
 
 <img src="https://skillicons.dev/icons?i=flask,pandas,numpy" />Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" /></div>________________________________________________________________________________________________________________________________________________________
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" /></div>_____________________________________________________________________________________________________________________________________________________________
 
 
 🔥 Contribution Streak
 
-<div width="1920" height="632" align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>_______________________________________________________________________________________________________________________________________________________
+<div width="1920" height="632" align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>_____________________________________________________________________________________________________________________________________________________________
 
 
 📦 My GitHub
 
 <div align="center"><a href="https://github.com/nihalroundhal?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>______________________________________________________________________________________________________________________________________________________
+</a></div>_____________________________________________________________________________________________________________________________________________________________
 🌐 Connect With Me
 
 <div align="center"><a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
