@@ -69,6 +69,6 @@ ________________________________________________________________________________
 
 ----
 
-<div align="center">💻 "while(alive)  learn(); build(); repeat(); "<br><img width="100" height="100" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />>
+<div align="center">💻 "while(alive)  learn(); build(); repeat(); "<br><img width="200" height="200" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />
 
 <br><img src="https://komarev.com/ghpvc/?username=nihalroundhal&label=Visitors&color=blueviolet&style=flat-square" /></div>
