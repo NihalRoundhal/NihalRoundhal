@@ -53,7 +53,7 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>________________________________________________________________________________________________________________________________________________________</div>
 🌐 Connect With Me
-<img width="200" height="300" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />
+
 
 
 <div align="center"><a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 <img src="https://skillicons.dev/icons?i=twitter" width="45" />
 </a><a href="mailto:nihalroundhal54@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a></div>
+</a<img width="300" height="300" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />></div>
 
 
 ----
