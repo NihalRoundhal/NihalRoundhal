@@ -53,7 +53,7 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>________________________________________________________________________________________________________________________________________________________</div>
 🌐 Connect With Me
-<img width="500" height="500" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />
+<img width="200" height="300" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />
 
 
 <div align="center"><a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
