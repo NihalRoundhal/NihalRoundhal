@@ -1,3 +1,4 @@
+<img width="500" height="500" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/18e94f69-c8f4-45c4-a008-d2516d310337" />
 <img width="1920" height="632" alt="209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9" src="https://github.com/user-attachments/assets/fc2e574b-c598-4c6c-a0cd-5b65e9cd31af" />
 <div align="center">👋Hi , I am NIHAL ROUNDHAL 
 
@@ -52,6 +53,8 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>________________________________________________________________________________________________________________________________________________________</div>
 🌐 Connect With Me
+<img width="500" height="500" alt="tumblr_mq5iy5uA1K1s5jjtzo1_500" src="https://github.com/user-attachments/assets/af0c2ecc-4f96-444b-b601-88e85d75b1ce" />
+
 
 <div align="center"><a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
