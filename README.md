@@ -16,7 +16,7 @@
 </p></div>---
 
 🧑‍💻 About Me
-_____________________________
+______________________________________________________________________________________________________________________________________________________________
 Name        → Nihal Roundhal 
 Role        → Developer
 Focus       → Full Stack • AI • Data Science
@@ -29,7 +29,7 @@ Mindset     → Jack of all trades, master of learning
 - ⚡ Fun fact: I like learning a little bit of everything
 - 📫 Reach me at nihalroundhal54@gmail.com
 
-________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 🧠 What I Work With
 
@@ -39,12 +39,12 @@ ________________________________
 
 <img src="https://skillicons.dev/icons?i=flask,pandas,numpy" />Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" /></div>---
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" /></div>_________________________________________________________________________________________________________________________________________________________________-
 
 
 🔥 Contribution Streak
 
-<div width="1920" height="632" align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>---
+<div width="1920" height="632" align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>______________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -52,7 +52,7 @@ ________________________________
 
 <div align="center"><a href="https://github.com/nihalroundhal?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>__________________
+</a></div>_________________________________________________________________________________________________________________________________________________________________________________________
 
 🌐 Connect With Me
 
@@ -64,7 +64,7 @@ ________________________________
 <img src="https://skillicons.dev/icons?i=twitter" width="45" />
 </a><a href="mailto:nihalroundhal54@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a></div>___________________________
+</a></div>_________________________________________________________________________________________________________________________________________________________________
 
 <div align="center">💻 "while(alive)  learn(); build(); repeat(); "
 
