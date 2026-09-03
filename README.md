@@ -16,7 +16,6 @@
 </p></div>---
 
 🧑‍💻 About Me
-
 Name        → Nihal Roundhal
 Role        → Developer
 Focus       → Full Stack • AI • Data Science
@@ -41,31 +40,12 @@ Mindset     → Jack of all trades, master of learning
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" /></div>---
 
-📊 GitHub Analytics
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihalroundhal&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalroundhal&layout=compact&hide_border=true&langs_count=8" /></div>---
 
 🔥 Contribution Streak
 
 <div align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>---
 
-📈 Contribution Graph
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalroundhal&hide_border=true&area=true" /></div>---
-
-🏆 GitHub Achievements
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nihalroundhal&no-frame=true&no-bg=true&margin-w=8&row=1" /></div>---
-
-🚀 Featured Projects
-
-<div align="center"><a href="https://github.com/nihalroundhal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nihalroundhal&repo=YOUR_PROJECT_1&hide_border=true" />
-</a><a href="https://github.com/nihalroundhal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nihalroundhal&repo=YOUR_PROJECT_2&hide_border=true" />
-</a></div>«Replace "YOUR_PROJECT_1" and "YOUR_PROJECT_2" with your actual repository names.»
-
----
 
 📦 My GitHub
 
