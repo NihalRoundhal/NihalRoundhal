@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=flask,pandas,numpy" />Tools
+<img src="https://skillicons.dev/icons?i=flask,pandas,numpy" /><br>Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />________________________________________________________________________________________________________________________________________________________</div>
 
