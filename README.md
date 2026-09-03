@@ -16,7 +16,8 @@
 </p></div>---
 
 🧑‍💻 About Me
-Name        → Nihal Roundhal
+_____________________________
+Name        → Nihal Roundhal 
 Role        → Developer
 Focus       → Full Stack • AI • Data Science
 Currently   → Learning • Building • Experimenting
@@ -28,7 +29,7 @@ Mindset     → Jack of all trades, master of learning
 - ⚡ Fun fact: I like learning a little bit of everything
 - 📫 Reach me at nihalroundhal54@gmail.com
 
----
+________________________________
 
 🧠 What I Work With
 
@@ -51,7 +52,7 @@ Mindset     → Jack of all trades, master of learning
 
 <div align="center"><a href="https://github.com/nihalroundhal?tab=repositories">
 <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>---
+</a></div>__________________
 
 🌐 Connect With Me
 
@@ -63,7 +64,7 @@ Mindset     → Jack of all trades, master of learning
 <img src="https://skillicons.dev/icons?i=twitter" width="45" />
 </a><a href="mailto:nihalroundhal54@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a></div>---
+</a></div>___________________________
 
 <div align="center">💻 "while(alive)  learn(); build(); repeat(); "
 
