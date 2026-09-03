@@ -1,6 +1,6 @@
 
 <img width="1920" height="632" alt="209520546-e43e8fc9-bcf0-4a10-8ecc-71de8b1be9d9" src="https://github.com/user-attachments/assets/fc2e574b-c598-4c6c-a0cd-5b65e9cd31af" />
-<div align="center">👋Hi , I am NIHAL ROUNDHAL 
+<div align="center">👋 NIHAL ROUNDHAL 
 
 "Developer • AI & Data Science • Full Stack"
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
