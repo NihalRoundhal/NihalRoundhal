@@ -1,31 +1,167 @@
-<h1 align="center">Hi 👋, I'm Nihal Roundhal</h1>
-<h3 align="center">Passionate developer ,Experiencing the world of developing new things</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalroundhal&label=Profile%20views&color=0e75b6&style=flat" alt="nihalroundhal" /> </p>
+# 👋 Hi, I'm Nihal Roundhal
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihalroundhal" alt="nihalroundhal" /></a> </p>
+### `Developer • AI & Data Science • Full Stack`
 
-<p align="left"> <a href="https://twitter.com/nihal785514" target="blank"><img src="https://img.shields.io/twitter/follow/nihal785514?logo=twitter&style=for-the-badge" alt="nihal785514" /></a> </p>
-
-- 💬 Ask me about **FULL STACK DEV**
-
-- 📫 How to reach me **nihalroundhal54@gmail.com**
-
-- ⚡ Fun fact **I am jack of all trades...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nihal785514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nihal785514" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nihal roundhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihal roundhal" height="30" width="40" /></a>
-<a href="https://fb.com/nihal roundhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nihal roundhal" height="30" width="40" /></a>
-<a href="https://instagram.com/ig__nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig__nihal" height="30" width="40" /></a>
+<p>
+  <em>Building things, breaking things, and learning how to build them better.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/nihalroundhal">
+    <img src="https://img.shields.io/github/followers/nihalroundhal?label=Followers&style=flat-square" />
+  </a>
+  <a href="https://github.com/nihalroundhal?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nihalroundhal?label=Stars&style=flat-square" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nihalroundhal&label=Profile%20Views&style=flat-square" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalroundhal&show_icons=true&locale=en&layout=compact" alt="nihalroundhal" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihalroundhal&show_icons=true&locale=en" alt="nihalroundhal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihalroundhal&" alt="nihalroundhal" /></p>
+## 🧑‍💻 About Me
+
+```text
+Name        → Nihal Roundhal
+Role        → Developer
+Focus       → Full Stack • AI • Data Science
+Currently   → Learning • Building • Experimenting
+Mindset     → Jack of all trades, master of learning
+```
+
+* 🔭 Currently building projects and experimenting with new technologies
+* 🌱 Learning **AI, Data Science & Full Stack Development**
+* 💬 Ask me about **Full Stack Development**
+* ⚡ Fun fact: **I like learning a little bit of everything**
+* 📫 Reach me at **[nihalroundhal54@gmail.com](mailto:nihalroundhal54@gmail.com)**
+
+---
+
+## 🧠 What I Work With
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=flask,pandas,numpy" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihalroundhal&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalroundhal&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihalroundhal&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nihalroundhal&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/nihalroundhal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nihalroundhal&repo=YOUR_PROJECT_1&hide_border=true" />
+</a>
+
+<a href="https://github.com/nihalroundhal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nihalroundhal&repo=YOUR_PROJECT_2&hide_border=true" />
+</a>
+
+</div>
+
+> Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
+
+---
+
+## 📦 My GitHub
+
+<div align="center">
+
+<a href="https://github.com/nihalroundhal?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://instagram.com/ig__nihal">
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+</a>
+
+<a href="https://twitter.com/nihal785514">
+<img src="https://skillicons.dev/icons?i=twitter" width="45" />
+</a>
+
+<a href="mailto:nihalroundhal54@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 `while(alive) { learn(); build(); repeat(); }`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nihalroundhal&label=Visitors&color=blueviolet&style=flat-square" />
+
+</div>
