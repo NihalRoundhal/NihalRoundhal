@@ -43,7 +43,7 @@ Mindset     → Jack of all trades, master of learning
 
 🔥 Contribution Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>---
+<div width="1920" height="632" align="center"><img src="https://streak-stats.demolab.com/?user=nihalroundhal&hide_border=true" /></div>---
 
 
 
